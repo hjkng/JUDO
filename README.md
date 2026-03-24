@@ -6,7 +6,7 @@ Official implementation of
 Base model: Qwen2.5-VL-7B  
 Official trained checkpoint:  
 https://huggingface.co/woodavid31/JUDO
-
+ 
 
 ## Installation
 
